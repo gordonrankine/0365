@@ -14,7 +14,7 @@ This is the directory where the files are stored. If the directory doesn't exist
 Generates a csv in c:\temp. The csv will be populated with the O365 Urls.
 
 .LINK
-https://github.com/gordonrankine/
+https://github.com/gordonrankine/O365
 
 .NOTES
 License:            MIT License
