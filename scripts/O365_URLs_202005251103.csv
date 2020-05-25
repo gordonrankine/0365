@@ -1,0 +1,453 @@
+Service,URL,Express Route,Category,Required
+"Exchange Online",outlook.office.com,True,Optimize,True
+"Exchange Online",outlook.office365.com,True,Optimize,True
+"Exchange Online",smtp.office365.com,True,Allow,True
+"Exchange Online",r1.res.office365.com,False,Default,True
+"Exchange Online",r3.res.office365.com,False,Default,True
+"Exchange Online",r4.res.office365.com,False,Default,True
+"Exchange Online",*.outlook.office.com,True,Allow,False
+"Exchange Online",outlook.office365.com,True,Allow,False
+"Exchange Online",*.outlook.office.com,True,Allow,False
+"Exchange Online",outlook.office365.com,True,Allow,False
+"Exchange Online",*.outlook.com,False,Default,True
+"Exchange Online",*.outlook.office.com,False,Default,True
+"Exchange Online",attachments.office.net,False,Default,True
+"Exchange Online",*.protection.outlook.com,True,Allow,True
+"Exchange Online",*.mail.protection.outlook.com,True,Allow,True
+"Skype for Business Online and Microsoft Teams",*.lync.com,True,Allow,True
+"Skype for Business Online and Microsoft Teams",*.teams.microsoft.com,True,Allow,True
+"Skype for Business Online and Microsoft Teams",teams.microsoft.com,True,Allow,True
+"Skype for Business Online and Microsoft Teams",*.broadcast.skype.com,True,Allow,True
+"Skype for Business Online and Microsoft Teams",broadcast.skype.com,True,Allow,True
+"Skype for Business Online and Microsoft Teams",quicktips.skypeforbusiness.com,False,Default,True
+"Skype for Business Online and Microsoft Teams",*.sfbassets.com,False,Default,True
+"Skype for Business Online and Microsoft Teams",*.urlp.sfbassets.com,False,Default,True
+"Skype for Business Online and Microsoft Teams",skypemaprdsitus.trafficmanager.net,False,Default,True
+"Skype for Business Online and Microsoft Teams",*.keydelivery.mediaservices.windows.net,False,Default,True
+"Skype for Business Online and Microsoft Teams",*.msecnd.net,False,Default,True
+"Skype for Business Online and Microsoft Teams",*.streaming.mediaservices.windows.net,False,Default,True
+"Skype for Business Online and Microsoft Teams",ajax.aspnetcdn.com,False,Default,True
+"Skype for Business Online and Microsoft Teams",mlccdn.blob.core.windows.net,False,Default,True
+"Skype for Business Online and Microsoft Teams",aka.ms,False,Default,True
+"Skype for Business Online and Microsoft Teams",amp.azure.net,False,Default,True
+"Skype for Business Online and Microsoft Teams",*.users.storage.live.com,False,Default,False
+"Skype for Business Online and Microsoft Teams",*.adl.windows.com,False,Default,False
+"Skype for Business Online and Microsoft Teams",*.skypeforbusiness.com,True,Allow,False
+"Skype for Business Online and Microsoft Teams",*.msedge.net,False,Default,True
+"Skype for Business Online and Microsoft Teams",compass-ssl.microsoft.com,False,Default,True
+"Skype for Business Online and Microsoft Teams",*.mstea.ms,False,Default,True
+"Skype for Business Online and Microsoft Teams",*.secure.skypeassets.com,False,Default,True
+"Skype for Business Online and Microsoft Teams",mlccdnprod.azureedge.net,False,Default,True
+"Skype for Business Online and Microsoft Teams",videoplayercdn.osi.office.net,False,Default,True
+"Skype for Business Online and Microsoft Teams",*.tenor.com,False,Default,False
+"SharePoint Online and OneDrive for Business",*.sharepoint.com,True,Optimize,True
+"SharePoint Online and OneDrive for Business",*.log.optimizely.com,False,Default,False
+"SharePoint Online and OneDrive for Business",click.email.microsoftonline.com,False,Default,False
+"SharePoint Online and OneDrive for Business",ssw.live.com,False,Default,False
+"SharePoint Online and OneDrive for Business",storage.live.com,False,Default,False
+"SharePoint Online and OneDrive for Business",*.search.production.apac.trafficmanager.net,False,Default,False
+"SharePoint Online and OneDrive for Business",*.search.production.emea.trafficmanager.net,False,Default,False
+"SharePoint Online and OneDrive for Business",*.search.production.us.trafficmanager.net,False,Default,False
+"SharePoint Online and OneDrive for Business",*.wns.windows.com,False,Default,True
+"SharePoint Online and OneDrive for Business",admin.onedrive.com,False,Default,True
+"SharePoint Online and OneDrive for Business",officeclient.microsoft.com,False,Default,True
+"SharePoint Online and OneDrive for Business",g.live.com,False,Default,True
+"SharePoint Online and OneDrive for Business",oneclient.sfx.ms,False,Default,True
+"SharePoint Online and OneDrive for Business",*.sharepointonline.com,False,Default,True
+"SharePoint Online and OneDrive for Business",cdn.sharepointonline.com,False,Default,True
+"SharePoint Online and OneDrive for Business",privatecdn.sharepointonline.com,False,Default,True
+"SharePoint Online and OneDrive for Business",publiccdn.sharepointonline.com,False,Default,True
+"SharePoint Online and OneDrive for Business",spoprod-a.akamaihd.net,False,Default,True
+"SharePoint Online and OneDrive for Business",static.sharepointonline.com,False,Default,True
+"SharePoint Online and OneDrive for Business",prod.msocdn.com,False,Default,False
+"SharePoint Online and OneDrive for Business",watson.telemetry.microsoft.com,False,Default,False
+"SharePoint Online and OneDrive for Business",*.svc.ms,False,Default,True
+"SharePoint Online and OneDrive for Business",*-files.sharepoint.com,False,Default,True
+"SharePoint Online and OneDrive for Business",*-myfiles.sharepoint.com,False,Default,True
+"Microsoft 365 Common and Office Online",ajax.aspnetcdn.com,False,Default,False
+"Microsoft 365 Common and Office Online",r3.res.outlook.com,False,Default,False
+"Microsoft 365 Common and Office Online",spoprod-a.akamaihd.net,False,Default,False
+"Microsoft 365 Common and Office Online",*.api.microsoftstream.com,False,Default,False
+"Microsoft 365 Common and Office Online",*.notification.api.microsoftstream.com,False,Default,False
+"Microsoft 365 Common and Office Online",amp.azure.net,False,Default,False
+"Microsoft 365 Common and Office Online",api.microsoftstream.com,False,Default,False
+"Microsoft 365 Common and Office Online",az416426.vo.msecnd.net,False,Default,False
+"Microsoft 365 Common and Office Online",s0.assets-yammer.com,False,Default,False
+"Microsoft 365 Common and Office Online",vortex.data.microsoft.com,False,Default,False
+"Microsoft 365 Common and Office Online",web.microsoftstream.com,False,Default,False
+"Microsoft 365 Common and Office Online",amsglob0cdnstream11.azureedge.net,False,Default,False
+"Microsoft 365 Common and Office Online",amsglob0cdnstream12.azureedge.net,False,Default,False
+"Microsoft 365 Common and Office Online",nps.onyx.azure.net,False,Default,False
+"Microsoft 365 Common and Office Online",*.azureedge.net,False,Default,False
+"Microsoft 365 Common and Office Online",*.media.azure.net,False,Default,False
+"Microsoft 365 Common and Office Online",*.streaming.mediaservices.windows.net,False,Default,False
+"Microsoft 365 Common and Office Online",*.keydelivery.mediaservices.windows.net,False,Default,False
+"Microsoft 365 Common and Office Online",*.streaming.mediaservices.windows.net,False,Default,False
+"Microsoft 365 Common and Office Online",*.online.office.com,True,Allow,True
+"Microsoft 365 Common and Office Online",*broadcast.officeapps.live.com,True,Allow,True
+"Microsoft 365 Common and Office Online",*excel.officeapps.live.com,True,Allow,True
+"Microsoft 365 Common and Office Online",*onenote.officeapps.live.com,True,Allow,True
+"Microsoft 365 Common and Office Online",*powerpoint.officeapps.live.com,True,Allow,True
+"Microsoft 365 Common and Office Online",*rtc.officeapps.live.com,True,Allow,True
+"Microsoft 365 Common and Office Online",*shared.officeapps.live.com,True,Allow,True
+"Microsoft 365 Common and Office Online",*view.officeapps.live.com,True,Allow,True
+"Microsoft 365 Common and Office Online",*visio.officeapps.live.com,True,Allow,True
+"Microsoft 365 Common and Office Online",*word-edit.officeapps.live.com,True,Allow,True
+"Microsoft 365 Common and Office Online",*word-view.officeapps.live.com,True,Allow,True
+"Microsoft 365 Common and Office Online",office.live.com,True,Allow,True
+"Microsoft 365 Common and Office Online",*.cdn.office.net,False,Default,True
+"Microsoft 365 Common and Office Online",contentstorage.osi.office.net,False,Default,True
+"Microsoft 365 Common and Office Online",*.onenote.com,False,Default,True
+"Microsoft 365 Common and Office Online",*.microsoft.com,False,Default,False
+"Microsoft 365 Common and Office Online",*.msecnd.net,False,Default,False
+"Microsoft 365 Common and Office Online",*.office.net,False,Default,False
+"Microsoft 365 Common and Office Online",*cdn.onenote.net,False,Default,True
+"Microsoft 365 Common and Office Online",ad.atdmt.com,False,Default,False
+"Microsoft 365 Common and Office Online",s.ytimg.com,False,Default,False
+"Microsoft 365 Common and Office Online",www.youtube.com,False,Default,False
+"Microsoft 365 Common and Office Online",ajax.aspnetcdn.com,False,Default,True
+"Microsoft 365 Common and Office Online",apis.live.net,False,Default,True
+"Microsoft 365 Common and Office Online",cdn.optimizely.com,False,Default,True
+"Microsoft 365 Common and Office Online",officeapps.live.com,False,Default,True
+"Microsoft 365 Common and Office Online",www.onedrive.com,False,Default,True
+"Microsoft 365 Common and Office Online",ccs.login.microsoftonline.com,False,Default,True
+"Microsoft 365 Common and Office Online",*.msappproxy.net,True,Allow,True
+"Microsoft 365 Common and Office Online",*.msftidentity.com,True,Allow,True
+"Microsoft 365 Common and Office Online",*.msidentity.com,True,Allow,True
+"Microsoft 365 Common and Office Online",account.activedirectory.windowsazure.com,True,Allow,True
+"Microsoft 365 Common and Office Online",accounts.accesscontrol.windows.net,True,Allow,True
+"Microsoft 365 Common and Office Online",adminwebservice.microsoftonline.com,True,Allow,True
+"Microsoft 365 Common and Office Online",api.passwordreset.microsoftonline.com,True,Allow,True
+"Microsoft 365 Common and Office Online",autologon.microsoftazuread-sso.com,True,Allow,True
+"Microsoft 365 Common and Office Online",becws.microsoftonline.com,True,Allow,True
+"Microsoft 365 Common and Office Online",clientconfig.microsoftonline-p.net,True,Allow,True
+"Microsoft 365 Common and Office Online",companymanager.microsoftonline.com,True,Allow,True
+"Microsoft 365 Common and Office Online",device.login.microsoftonline.com,True,Allow,True
+"Microsoft 365 Common and Office Online",graph.microsoft.com,True,Allow,True
+"Microsoft 365 Common and Office Online",graph.windows.net,True,Allow,True
+"Microsoft 365 Common and Office Online",login.microsoft.com,True,Allow,True
+"Microsoft 365 Common and Office Online",login.microsoftonline.com,True,Allow,True
+"Microsoft 365 Common and Office Online",login.microsoftonline-p.com,True,Allow,True
+"Microsoft 365 Common and Office Online",login.windows.net,True,Allow,True
+"Microsoft 365 Common and Office Online",logincert.microsoftonline.com,True,Allow,True
+"Microsoft 365 Common and Office Online",loginex.microsoftonline.com,True,Allow,True
+"Microsoft 365 Common and Office Online",login-us.microsoftonline.com,True,Allow,True
+"Microsoft 365 Common and Office Online",nexus.microsoftonline-p.com,True,Allow,True
+"Microsoft 365 Common and Office Online",passwordreset.microsoftonline.com,True,Allow,True
+"Microsoft 365 Common and Office Online",provisioningapi.microsoftonline.com,True,Allow,True
+"Microsoft 365 Common and Office Online",*.microsoftonline.com,False,Default,True
+"Microsoft 365 Common and Office Online",*.microsoftonline-p.com,False,Default,True
+"Microsoft 365 Common and Office Online",*.msauth.net,False,Default,True
+"Microsoft 365 Common and Office Online",*.msauthimages.net,False,Default,True
+"Microsoft 365 Common and Office Online",*.msecnd.net,False,Default,True
+"Microsoft 365 Common and Office Online",*.msftauth.net,False,Default,True
+"Microsoft 365 Common and Office Online",*.msftauthimages.net,False,Default,True
+"Microsoft 365 Common and Office Online",*.phonefactor.net,False,Default,True
+"Microsoft 365 Common and Office Online",enterpriseregistration.windows.net,False,Default,True
+"Microsoft 365 Common and Office Online",management.azure.com,False,Default,True
+"Microsoft 365 Common and Office Online",policykeyservice.dc.ad.msft.net,False,Default,True
+"Microsoft 365 Common and Office Online",secure.aadcdn.microsoftonline-p.com,False,Default,True
+"Microsoft 365 Common and Office Online",*.manage.office.com,True,Allow,True
+"Microsoft 365 Common and Office Online",*.protection.office.com,True,Allow,True
+"Microsoft 365 Common and Office Online",manage.office.com,True,Allow,True
+"Microsoft 365 Common and Office Online",protection.office.com,True,Allow,True
+"Microsoft 365 Common and Office Online",*.portal.cloudappsecurity.com,True,Allow,True
+"Microsoft 365 Common and Office Online",account.office.net,True,Allow,True
+"Microsoft 365 Common and Office Online",admin.microsoft.com,True,Allow,True
+"Microsoft 365 Common and Office Online",home.office.com,True,Allow,True
+"Microsoft 365 Common and Office Online",portal.office.com,True,Allow,True
+"Microsoft 365 Common and Office Online",www.office.com,True,Allow,True
+"Microsoft 365 Common and Office Online",apc.delve.office.com,False,Default,True
+"Microsoft 365 Common and Office Online",aus.delve.office.com,False,Default,True
+"Microsoft 365 Common and Office Online",can.delve.office.com,False,Default,True
+"Microsoft 365 Common and Office Online",delve.office.com,False,Default,True
+"Microsoft 365 Common and Office Online",delve-gcc.office.com,False,Default,True
+"Microsoft 365 Common and Office Online",eur.delve.office.com,False,Default,True
+"Microsoft 365 Common and Office Online",gbr.delve.office.com,False,Default,True
+"Microsoft 365 Common and Office Online",ind.delve.office.com,False,Default,True
+"Microsoft 365 Common and Office Online",jpn.delve.office.com,False,Default,True
+"Microsoft 365 Common and Office Online",kor.delve.office.com,False,Default,True
+"Microsoft 365 Common and Office Online",lam.delve.office.com,False,Default,True
+"Microsoft 365 Common and Office Online",nam.delve.office.com,False,Default,True
+"Microsoft 365 Common and Office Online",suite.office.net,False,Default,True
+"Microsoft 365 Common and Office Online",webshell.suite.office.com,False,Default,True
+"Microsoft 365 Common and Office Online",*.blob.core.windows.net,False,Default,False
+"Microsoft 365 Common and Office Online",*.helpshift.com,False,Default,False
+"Microsoft 365 Common and Office Online",*.localytics.com,False,Default,False
+"Microsoft 365 Common and Office Online",analytics.localytics.com,False,Default,False
+"Microsoft 365 Common and Office Online",api.localytics.com,False,Default,False
+"Microsoft 365 Common and Office Online",connect.facebook.net,False,Default,False
+"Microsoft 365 Common and Office Online",firstpartyapps.oaspapps.com,False,Default,False
+"Microsoft 365 Common and Office Online",outlook.uservoice.com,False,Default,False
+"Microsoft 365 Common and Office Online",prod.firstpartyapps.oaspapps.com.akadns.net,False,Default,False
+"Microsoft 365 Common and Office Online",rink.hockeyapp.net,False,Default,False
+"Microsoft 365 Common and Office Online",sdk.hockeyapp.net,False,Default,False
+"Microsoft 365 Common and Office Online",telemetryservice.firstpartyapps.oaspapps.com,False,Default,False
+"Microsoft 365 Common and Office Online",web.localytics.com,False,Default,False
+"Microsoft 365 Common and Office Online",webanalytics.localytics.com,False,Default,False
+"Microsoft 365 Common and Office Online",wus-firstpartyapps.oaspapps.com,False,Default,False
+"Microsoft 365 Common and Office Online",*.aria.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",*.events.data.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",*.o365weve.com,False,Default,True
+"Microsoft 365 Common and Office Online",amp.azure.net,False,Default,True
+"Microsoft 365 Common and Office Online",appsforoffice.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",assets.onestore.ms,False,Default,True
+"Microsoft 365 Common and Office Online",auth.gfx.ms,False,Default,True
+"Microsoft 365 Common and Office Online",az826701.vo.msecnd.net,False,Default,True
+"Microsoft 365 Common and Office Online",c1.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",client.hip.live.com,False,Default,True
+"Microsoft 365 Common and Office Online",contentstorage.osi.office.net,False,Default,True
+"Microsoft 365 Common and Office Online",dgps.support.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",docs.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",msdn.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",platform.linkedin.com,False,Default,True
+"Microsoft 365 Common and Office Online",prod.msocdn.com,False,Default,True
+"Microsoft 365 Common and Office Online",products.office.com,False,Default,True
+"Microsoft 365 Common and Office Online",r1.res.office365.com,False,Default,True
+"Microsoft 365 Common and Office Online",r4.res.office365.com,False,Default,True
+"Microsoft 365 Common and Office Online",res.delve.office.com,False,Default,True
+"Microsoft 365 Common and Office Online",shellprod.msocdn.com,False,Default,True
+"Microsoft 365 Common and Office Online",support.content.office.net,False,Default,True
+"Microsoft 365 Common and Office Online",support.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",support.office.com,False,Default,True
+"Microsoft 365 Common and Office Online",technet.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",templates.office.com,False,Default,True
+"Microsoft 365 Common and Office Online",videocontent.osi.office.net,False,Default,True
+"Microsoft 365 Common and Office Online",videoplayercdn.osi.office.net,False,Default,True
+"Microsoft 365 Common and Office Online",*.office365.com,False,Default,True
+"Microsoft 365 Common and Office Online",*.cloudapp.net,False,Default,False
+"Microsoft 365 Common and Office Online",*.aadrm.com,False,Default,True
+"Microsoft 365 Common and Office Online",*.azurerms.com,False,Default,True
+"Microsoft 365 Common and Office Online",*.informationprotection.azure.com,False,Default,True
+"Microsoft 365 Common and Office Online",ecn.dev.virtualearth.net,False,Default,True
+"Microsoft 365 Common and Office Online",informationprotection.hosting.portal.azure.net,False,Default,True
+"Microsoft 365 Common and Office Online",testconnectivity.microsoft.com,False,Default,False
+"Microsoft 365 Common and Office Online",*.hockeyapp.net,False,Default,False
+"Microsoft 365 Common and Office Online",*.sharepointonline.com,False,Default,False
+"Microsoft 365 Common and Office Online",*.staffhub.office.com,False,Default,False
+"Microsoft 365 Common and Office Online",api.office.com,False,Default,False
+"Microsoft 365 Common and Office Online",cdn.forms.office.net,False,Default,False
+"Microsoft 365 Common and Office Online",dc.applicationinsights.microsoft.com,False,Default,False
+"Microsoft 365 Common and Office Online",dc.services.visualstudio.com,False,Default,False
+"Microsoft 365 Common and Office Online",forms.microsoft.com,False,Default,False
+"Microsoft 365 Common and Office Online",forms.office.com,False,Default,False
+"Microsoft 365 Common and Office Online",mem.gfx.ms,False,Default,False
+"Microsoft 365 Common and Office Online",office365servicehealthcommunications.cloudapp.net,False,Default,False
+"Microsoft 365 Common and Office Online",securescore.office.com,False,Default,False
+"Microsoft 365 Common and Office Online",signup.microsoft.com,False,Default,False
+"Microsoft 365 Common and Office Online",staffhub.ms,False,Default,False
+"Microsoft 365 Common and Office Online",staffhub.office.com,False,Default,False
+"Microsoft 365 Common and Office Online",staffhub.uservoice.com,False,Default,False
+"Microsoft 365 Common and Office Online",staffhubweb.azureedge.net,False,Default,False
+"Microsoft 365 Common and Office Online",watson.telemetry.microsoft.com,False,Default,False
+"Microsoft 365 Common and Office Online",vortex.data.microsoft.com,False,Default,False
+"Microsoft 365 Common and Office Online",nexus.officeapps.live.com,True,Allow,True
+"Microsoft 365 Common and Office Online",nexusrules.officeapps.live.com,True,Allow,True
+"Microsoft 365 Common and Office Online",portal.microsoftonline.com,True,Allow,True
+"Microsoft 365 Common and Office Online",*.microsoft.com,False,Default,False
+"Microsoft 365 Common and Office Online",*.msocdn.com,False,Default,False
+"Microsoft 365 Common and Office Online",*.office.net,False,Default,False
+"Microsoft 365 Common and Office Online",*.onmicrosoft.com,False,Default,False
+"Microsoft 365 Common and Office Online",o15.officeredir.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",ocsredir.officeapps.live.com,False,Default,True
+"Microsoft 365 Common and Office Online",officepreviewredir.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",officeredir.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",r.office.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",ocws.officeapps.live.com,False,Default,True
+"Microsoft 365 Common and Office Online",odc.officeapps.live.com,False,Default,True
+"Microsoft 365 Common and Office Online",roaming.officeapps.live.com,False,Default,True
+"Microsoft 365 Common and Office Online",activation.sls.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",crl.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",ols.officeapps.live.com,False,Default,True
+"Microsoft 365 Common and Office Online",office15client.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",officeclient.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",ocsa.officeapps.live.com,False,Default,True
+"Microsoft 365 Common and Office Online",insertmedia.bing.office.net,False,Default,True
+"Microsoft 365 Common and Office Online",go.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",support.office.com,False,Default,True
+"Microsoft 365 Common and Office Online",mrodevicemgr.officeapps.live.com,False,Default,True
+"Microsoft 365 Common and Office Online",ajax.aspnetcdn.com,False,Default,True
+"Microsoft 365 Common and Office Online",cdn.odc.officeapps.live.com,False,Default,True
+"Microsoft 365 Common and Office Online",officecdn.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",officecdn.microsoft.com.edgesuite.net,False,Default,True
+"Microsoft 365 Common and Office Online",ajax.microsoft.com,False,Default,False
+"Microsoft 365 Common and Office Online",c.bing.net,False,Default,False
+"Microsoft 365 Common and Office Online",excelbingmap.firstpartyapps.oaspapps.com,False,Default,False
+"Microsoft 365 Common and Office Online",excelcs.officeapps.live.com,False,Default,False
+"Microsoft 365 Common and Office Online",ocos-office365-s2s.msedge.net,False,Default,False
+"Microsoft 365 Common and Office Online",omextemplates.content.office.net,False,Default,False
+"Microsoft 365 Common and Office Online",peoplegraph.firstpartyapps.oaspapps.com,False,Default,False
+"Microsoft 365 Common and Office Online",pptcs.officeapps.live.com,False,Default,False
+"Microsoft 365 Common and Office Online",store.office.com,False,Default,False
+"Microsoft 365 Common and Office Online",templateservice.office.com,False,Default,False
+"Microsoft 365 Common and Office Online",tse1.mm.bing.net,False,Default,False
+"Microsoft 365 Common and Office Online",uci.officeapps.live.com,False,Default,False
+"Microsoft 365 Common and Office Online",watson.microsoft.com,False,Default,False
+"Microsoft 365 Common and Office Online",wikipedia.firstpartyapps.oaspapps.com,False,Default,False
+"Microsoft 365 Common and Office Online",wordcs.officeapps.live.com,False,Default,False
+"Microsoft 365 Common and Office Online",www.bing.com,False,Default,False
+"Microsoft 365 Common and Office Online",*.acompli.net,False,Default,False
+"Microsoft 365 Common and Office Online",*.outlookmobile.com,False,Default,False
+"Microsoft 365 Common and Office Online",*.manage.microsoft.com,False,Default,False
+"Microsoft 365 Common and Office Online",api.office.com,False,Default,False
+"Microsoft 365 Common and Office Online",go.microsoft.com,False,Default,False
+"Microsoft 365 Common and Office Online",login.windows-ppe.net,False,Default,False
+"Microsoft 365 Common and Office Online",secure.aadcdn.microsoftonline-p.com,False,Default,False
+"Microsoft 365 Common and Office Online",vortex.data.microsoft.com,False,Default,False
+"Microsoft 365 Common and Office Online",account.live.com,False,Default,False
+"Microsoft 365 Common and Office Online",apis.live.net,False,Default,False
+"Microsoft 365 Common and Office Online",auth.gfx.ms,False,Default,False
+"Microsoft 365 Common and Office Online",login.live.com,False,Default,False
+"Microsoft 365 Common and Office Online",accounts.google.com,False,Default,False
+"Microsoft 365 Common and Office Online",mail.google.com,False,Default,False
+"Microsoft 365 Common and Office Online",www.googleapis.com,False,Default,False
+"Microsoft 365 Common and Office Online",api.login.yahoo.com,False,Default,False
+"Microsoft 365 Common and Office Online",social.yahooapis.com,False,Default,False
+"Microsoft 365 Common and Office Online",api.dropboxapi.com,False,Default,False
+"Microsoft 365 Common and Office Online",www.dropbox.com,False,Default,False
+"Microsoft 365 Common and Office Online",app.box.com,False,Default,False
+"Microsoft 365 Common and Office Online",graph.facebook.com,False,Default,False
+"Microsoft 365 Common and Office Online",m.facebook.com,False,Default,False
+"Microsoft 365 Common and Office Online",www.evernote.com,False,Default,False
+"Microsoft 365 Common and Office Online",a.wunderlist.com,False,Default,False
+"Microsoft 365 Common and Office Online",www.wunderlist.com,False,Default,False
+"Microsoft 365 Common and Office Online",bit.ly,False,Default,False
+"Microsoft 365 Common and Office Online",www.acompli.com,False,Default,False
+"Microsoft 365 Common and Office Online",by.uservoice.com,False,Default,False
+"Microsoft 365 Common and Office Online",outlook.uservoice.com,False,Default,False
+"Microsoft 365 Common and Office Online",api.diagnostics.office.com,False,Default,False
+"Microsoft 365 Common and Office Online",data.flurry.com,False,Default,False
+"Microsoft 365 Common and Office Online",app.adjust.com,False,Default,False
+"Microsoft 365 Common and Office Online",rink.hockeyapp.net,False,Default,False
+"Microsoft 365 Common and Office Online",sdk.hockeyapp.net,False,Default,False
+"Microsoft 365 Common and Office Online",acompli.helpshift.com,False,Default,False
+"Microsoft 365 Common and Office Online",play.google.com,False,Default,False
+"Microsoft 365 Common and Office Online",*.appex.bing.com,False,Default,False
+"Microsoft 365 Common and Office Online",*.appex-rf.msn.com,False,Default,False
+"Microsoft 365 Common and Office Online",*.itunes.apple.com,False,Default,False
+"Microsoft 365 Common and Office Online",c.bing.com,False,Default,False
+"Microsoft 365 Common and Office Online",c.live.com,False,Default,False
+"Microsoft 365 Common and Office Online",cl2.apple.com,False,Default,False
+"Microsoft 365 Common and Office Online",client.hip.live.com,False,Default,False
+"Microsoft 365 Common and Office Online",d.docs.live.net,False,Default,False
+"Microsoft 365 Common and Office Online",directory.services.live.com,False,Default,False
+"Microsoft 365 Common and Office Online",docs.live.net,False,Default,False
+"Microsoft 365 Common and Office Online",en-us.appex-rf.msn.com,False,Default,False
+"Microsoft 365 Common and Office Online",foodanddrink.services.appex.bing.com,False,Default,False
+"Microsoft 365 Common and Office Online",odcsm.officeapps.live.com,False,Default,False
+"Microsoft 365 Common and Office Online",office.microsoft.com,False,Default,False
+"Microsoft 365 Common and Office Online",officeimg.vo.msecnd.net,False,Default,False
+"Microsoft 365 Common and Office Online",partnerservices.getmicrosoftkey.com,False,Default,False
+"Microsoft 365 Common and Office Online",roaming.officeapps.live.com,False,Default,False
+"Microsoft 365 Common and Office Online",sas.office.microsoft.com,False,Default,False
+"Microsoft 365 Common and Office Online",signup.live.com,False,Default,False
+"Microsoft 365 Common and Office Online",view.atdmt.com,False,Default,False
+"Microsoft 365 Common and Office Online",watson.telemetry.microsoft.com,False,Default,False
+"Microsoft 365 Common and Office Online",weather.tile.appex.bing.com,False,Default,False
+"Microsoft 365 Common and Office Online",api.meetup.com,False,Default,False
+"Microsoft 365 Common and Office Online",secure.meetup.com,False,Default,False
+"Microsoft 365 Common and Office Online",account.live.com,False,Default,False
+"Microsoft 365 Common and Office Online",auth.gfx.ms,False,Default,False
+"Microsoft 365 Common and Office Online",c.bing.com,False,Default,False
+"Microsoft 365 Common and Office Online",c.live.com,False,Default,False
+"Microsoft 365 Common and Office Online",cl2.apple.com,False,Default,False
+"Microsoft 365 Common and Office Online",client.hip.live.com,False,Default,False
+"Microsoft 365 Common and Office Online",directory.services.live.com,False,Default,False
+"Microsoft 365 Common and Office Online",docs.live.net,False,Default,False
+"Microsoft 365 Common and Office Online",en-us.appex-rf.msn.com,False,Default,False
+"Microsoft 365 Common and Office Online",foodanddrink.services.appex.bing.com,False,Default,False
+"Microsoft 365 Common and Office Online",go.microsoft.com,False,Default,False
+"Microsoft 365 Common and Office Online",login.live.com,False,Default,False
+"Microsoft 365 Common and Office Online",office.microsoft.com,False,Default,False
+"Microsoft 365 Common and Office Online",officeimg.vo.msecnd.net,False,Default,False
+"Microsoft 365 Common and Office Online",p100-sandbox.itunes.apple.com,False,Default,False
+"Microsoft 365 Common and Office Online",partnerservices.getmicrosoftkey.com,False,Default,False
+"Microsoft 365 Common and Office Online",roaming.officeapps.live.com,False,Default,False
+"Microsoft 365 Common and Office Online",sas.office.microsoft.com,False,Default,False
+"Microsoft 365 Common and Office Online",signup.live.com,False,Default,False
+"Microsoft 365 Common and Office Online",view.atdmt.com,False,Default,False
+"Microsoft 365 Common and Office Online",watson.telemetry.microsoft.com,False,Default,False
+"Microsoft 365 Common and Office Online",weather.tile.appex.bing.com,False,Default,False
+"Microsoft 365 Common and Office Online",*.yammer.com,False,Default,False
+"Microsoft 365 Common and Office Online",*.yammerusercontent.com,False,Default,False
+"Microsoft 365 Common and Office Online",*.assets-yammer.com,False,Default,False
+"Microsoft 365 Common and Office Online",tasks.office.com,False,Default,False
+"Microsoft 365 Common and Office Online",ajax.aspnetcdn.com,False,Default,False
+"Microsoft 365 Common and Office Online",www.outlook.com,False,Default,False
+"Microsoft 365 Common and Office Online",eus-www.sway-cdn.com,False,Default,False
+"Microsoft 365 Common and Office Online",eus-www.sway-extensions.com,False,Default,False
+"Microsoft 365 Common and Office Online",wus-www.sway-cdn.com,False,Default,False
+"Microsoft 365 Common and Office Online",wus-www.sway-extensions.com,False,Default,False
+"Microsoft 365 Common and Office Online",www.google-analytics.com,False,Default,False
+"Microsoft 365 Common and Office Online",sway.com,False,Default,False
+"Microsoft 365 Common and Office Online",sway.office.com,False,Default,False
+"Microsoft 365 Common and Office Online",www.sway.com,False,Default,False
+"Microsoft 365 Common and Office Online",*.entrust.net,False,Default,True
+"Microsoft 365 Common and Office Online",*.geotrust.com,False,Default,True
+"Microsoft 365 Common and Office Online",*.omniroot.com,False,Default,True
+"Microsoft 365 Common and Office Online",*.public-trust.com,False,Default,True
+"Microsoft 365 Common and Office Online",*.symcb.com,False,Default,True
+"Microsoft 365 Common and Office Online",*.symcd.com,False,Default,True
+"Microsoft 365 Common and Office Online",*.verisign.com,False,Default,True
+"Microsoft 365 Common and Office Online",*.verisign.net,False,Default,True
+"Microsoft 365 Common and Office Online",aia.entrust.net,False,Default,True
+"Microsoft 365 Common and Office Online",apps.identrust.com,False,Default,True
+"Microsoft 365 Common and Office Online",cacert.a.omniroot.com,False,Default,True
+"Microsoft 365 Common and Office Online",cacert.omniroot.com,False,Default,True
+"Microsoft 365 Common and Office Online",cacerts.digicert.com,False,Default,True
+"Microsoft 365 Common and Office Online",cdp1.public-trust.com,False,Default,True
+"Microsoft 365 Common and Office Online",cert.int-x3.letsencrypt.org,False,Default,True
+"Microsoft 365 Common and Office Online",crl.entrust.net,False,Default,True
+"Microsoft 365 Common and Office Online",crl.globalsign.com,False,Default,True
+"Microsoft 365 Common and Office Online",crl.globalsign.net,False,Default,True
+"Microsoft 365 Common and Office Online",crl.identrust.com,False,Default,True
+"Microsoft 365 Common and Office Online",crl.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",crl3.digicert.com,False,Default,True
+"Microsoft 365 Common and Office Online",crl4.digicert.com,False,Default,True
+"Microsoft 365 Common and Office Online",evintl-aia.verisign.com,False,Default,True
+"Microsoft 365 Common and Office Online",evintl-crl.verisign.com,False,Default,True
+"Microsoft 365 Common and Office Online",evintl-ocsp.verisign.com,False,Default,True
+"Microsoft 365 Common and Office Online",evsecure-aia.verisign.com,False,Default,True
+"Microsoft 365 Common and Office Online",evsecure-crl.verisign.com,False,Default,True
+"Microsoft 365 Common and Office Online",evsecure-ocsp.verisign.com,False,Default,True
+"Microsoft 365 Common and Office Online",isrg.trustid.ocsp.identrust.com,False,Default,True
+"Microsoft 365 Common and Office Online",mscrl.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",ocsp.digicert.com,False,Default,True
+"Microsoft 365 Common and Office Online",ocsp.entrust.net,False,Default,True
+"Microsoft 365 Common and Office Online",ocsp.globalsign.com,False,Default,True
+"Microsoft 365 Common and Office Online",ocsp.int-x3.letsencrypt.org,False,Default,True
+"Microsoft 365 Common and Office Online",ocsp.msocsp.com,False,Default,True
+"Microsoft 365 Common and Office Online",ocsp.omniroot.com,False,Default,True
+"Microsoft 365 Common and Office Online",ocsp2.globalsign.com,False,Default,True
+"Microsoft 365 Common and Office Online",ocspx.digicert.com,False,Default,True
+"Microsoft 365 Common and Office Online",s1.symcb.com,False,Default,True
+"Microsoft 365 Common and Office Online",s2.symcb.com,False,Default,True
+"Microsoft 365 Common and Office Online",sa.symcb.com,False,Default,True
+"Microsoft 365 Common and Office Online",sd.symcb.com,False,Default,True
+"Microsoft 365 Common and Office Online",secure.globalsign.com,False,Default,True
+"Microsoft 365 Common and Office Online",sr.symcb.com,False,Default,True
+"Microsoft 365 Common and Office Online",sr.symcd.com,False,Default,True
+"Microsoft 365 Common and Office Online",su.symcb.com,False,Default,True
+"Microsoft 365 Common and Office Online",su.symcd.com,False,Default,True
+"Microsoft 365 Common and Office Online",vassg142.crl.omniroot.com,False,Default,True
+"Microsoft 365 Common and Office Online",vassg142.ocsp.omniroot.com,False,Default,True
+"Microsoft 365 Common and Office Online",www.digicert.com,False,Default,True
+"Microsoft 365 Common and Office Online",www.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",officespeech.platform.bing.com,False,Default,False
+"Skype for Business Online and Microsoft Teams",*.skype.com,False,Default,True
+"Microsoft 365 Common and Office Online",*.config.office.net,False,Default,True
+"Microsoft 365 Common and Office Online",*.manage.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",*.loki.delve.office.com,False,Default,True
+"Microsoft 365 Common and Office Online",loki.delve.office.com,False,Default,True
+"Microsoft 365 Common and Office Online",loki.delve-gcc.office.com,False,Default,True
+"Microsoft 365 Common and Office Online",lpcres.delve.office.com,False,Default,True
+"Exchange Online",*.measure.office.com,False,Default,False
+"Skype for Business Online and Microsoft Teams",statics.teams.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",*.office.com,False,Default,True
+"Microsoft 365 Common and Office Online",cdnprod.myanalytics.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",myanalytics.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",myanalytics-gcc.microsoft.com,False,Default,True
+"Microsoft 365 Common and Office Online",workplaceanalytics.cdn.office.net,False,Default,True
+"Microsoft 365 Common and Office Online",workplaceanalytics.office.com,False,Default,True
+"Microsoft 365 Common and Office Online",*.officeconfig.msocdn.com,False,Default,False
+"Microsoft 365 Common and Office Online",config.office.com,False,Default,False
